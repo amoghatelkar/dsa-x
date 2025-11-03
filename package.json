@@ -1,6 +1,6 @@
 {
-  "name": "ds-x",
-  "version": "1.0.0",
+  "name": "dsa-x",
+  "version": "1.0.1",
   "description": "A modern TypeScript data structures library — simple, fast, and educational.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

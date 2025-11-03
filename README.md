@@ -1,4 +1,4 @@
-# 🧠 DS-X
+# 🧠 DSA-X
 
 > A modern, TypeScript-based **Data Structures Library** for JavaScript developers.  
 > Build, learn, and use fundamental data structures with clean, production-ready code.
@@ -7,27 +7,27 @@
 
 ## 🚀 Overview
 
-**DS-X** provides a robust, modular, and type-safe implementation of essential data structures —  
+**DSA-X** provides a robust, modular, and type-safe implementation of essential data structures —  
 from arrays and linked lists to trees, graphs, and tries — written in **TypeScript**.
 
-The goal of DS-X is to make data structures **easy to use, test, and understand**,  
+The goal of DSA-X is to make data structures **easy to use, test, and understand**,  
 both for learners and professionals looking to integrate them into real-world applications.
 
 ---
 
 ## 📦 Installation
 
-You can install DS-X using your favorite package manager:
+You can install DSA-X using your favorite package manager:
 
 ```bash
 # npm
-npm install ds-x
+npm install dsa-x
 
 # yarn
-yarn add ds-x
+yarn add dsa-x
 
 # pnpm
-pnpm add ds-x
+pnpm add dsa-x
 
 ```       
 
